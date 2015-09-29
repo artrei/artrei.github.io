@@ -1,0 +1,13 @@
+# Site settings
+title: Coba Lagi
+email: redaadiyasa@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog tentang percobaan dan kegagalan yang saya alami,
+  semoga bisa menjadi pelajaran bagi yang membaca.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://artrei.github.io" # the base hostname & protocol for your site
+twitter_username: redaadiyasa
+github_username:  artrei
+
+# Build settings
+markdown: kramdown
