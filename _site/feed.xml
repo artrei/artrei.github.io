@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coba Lagi</title>
+    <description>Blog tentang percobaan dan kegagalan yang saya alami, semoga bisa menjadi pelajaran bagi yang membaca.
+</description>
+    <link>http://artrei.github.io/</link>
+    <atom:link href="http://artrei.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 03 Oct 2015 03:00:49 +0700</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2015 03:00:49 +0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>

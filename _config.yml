@@ -1,12 +1,10 @@
 # Site settings
-title: Coba Lagi
+title: Bare Minimum
 email: redaadiyasa@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blog tentang percobaan dan kegagalan yang saya alami,
-  semoga bisa menjadi pelajaran bagi yang membaca.
+  The smallest possible quantity or the least fulfilling, but still adequate, condition that is required, acceptable, or suitable for some purpose. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://artrei.github.io" # the base hostname & protocol for your site
-twitter_username: redaadiyasa
 github_username:  artrei
 
 # Build settings
